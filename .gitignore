@@ -1,0 +1,10 @@
+data/dump_*
+config/secrets.*
+key/*
+fig/*
+.vscode/**
+**/venv
+**/__pycache__
+**/.DS_Store
+.coverage
+data/pump-sensor-data/
